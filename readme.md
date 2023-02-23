@@ -1,6 +1,5 @@
-# COM3503 Assignment
-
-Student Name:Rebanth Kanner
+# 3D Graphics Project
+A project that explores 3D graphics, shaders, and the rendering pipeline using jogl and java 8.
 
 # Running instructions
     A Hatch.bat file has been created to help run the program. IT SHOULD BE NOTED THAT RUNNING "javac Hatch.java" sometimes does not compile the required classes and can cause errors
